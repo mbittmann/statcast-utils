@@ -1,7 +1,6 @@
 # statcast-utils
 
-A simple utility for parsing MLB statcast 'game_events.json' files with 
-clojure + lein.
+A simple utility for parsing MLB statcast 'game_events.json' files with clojure + lein.
 
 ## Usage
 
